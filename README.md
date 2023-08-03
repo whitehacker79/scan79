@@ -15,13 +15,15 @@ Ready!
 
 ## Usage
 
-> scan79 host ports
+> scan79 host ports timeout
 
 Here are:
 
 * **host** - host which need to be scanned
 
 * **ports** - range of ports to scan
+
+* **timeout** - timeout for 1 port (default=3)
 
 ## Example
 
